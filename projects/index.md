@@ -6,7 +6,7 @@ title: Projects
 #### Portland Street Crime Forecasting 
 * Built a spatial-temporal model that captures the seasonal trend
 * Identified the "hot" areas so that prediction accurary index (PAI) is maximized
-* Poster available here <i class="fa fa-file-pdf-o"></i> [PDF](spatial.pdf)
+* Poster available here <i class="fa fa-file-pdf-o"></i> [PDF](Spatial.pdf)
 
 #### Topic Modeling on StackExchange Posts
 * Natural language processing on massive data
