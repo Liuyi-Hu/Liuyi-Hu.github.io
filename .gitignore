@@ -2,3 +2,6 @@ _site/
 
 # Mac finder files and hidden folders 
 .DS_Store
+
+# .sass-cache
+.sass-cache/
