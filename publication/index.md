@@ -5,7 +5,7 @@ title: Research
 
 ## Pre-prints
 
-* **L Hu**, W Lu, J Zhou, H Zhou. **MM algorithms for logistic variance components model**, submitted.
+* **L Hu**, W Lu, J Zhou, H Zhou. **MM algorithms for variance component estimation and selection in logistic linear mixed model**, submitted.
 
 *  E Chi, **L Hu**, A.K. Saibaba, and A.U. Rao. **Going off the Grid: Iterative Model Selection for Biclustered Matrix Completion**. _arXiv_ 1610.05400 [stat.CO], Nov. 2016. <i class="fa fa-file-pdf-o"></i> [PDF](https://arxiv.org/pdf/1610.05400.pdf)
 
